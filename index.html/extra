@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/pink-sweet-landscape-background-vector-76234351.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-size: 3vw;
+    text-align: center;
+    font-family:inherit;
+    width: 50%;
+    text-align: center;
+    margin: 5% 0% 0% 30%;
+   text-shadow:1px 1px 1px rgb(120, 182, 233), 3px 3px 5px rgb(178, 72, 240),3px 3px 5px rgb(231, 71, 159) ;
+}
+.columm{
+    float: left;
+    width:33.33%;
+    padding:5px;
+}
+.row{
+    content: "";
+    display: table;
+    clear: both;
+}
+/* <div class="row">
+<div class="columm">
+    <img  type="button" src="/game/cross_candy-removebg-preview.png" alt="cross_candy" id="candy" onclick="candy_one()" >
+</div>
+<div  class="columm">
+    <img type="button" src="/game/cup_chocolate-removebg-preview.png" alt="cup_chocolate" id="candy" onclick="candy_two()" >
+</div>
+<div  class="columm">
+    <img  type="button" src="/game/nulet_chocolate-removebg-preview.png" alt="nulet_chocolate" id="candy"  onclick="candy_three()">
+</div>
+<div  class="columm">
+    <img type="button" src="/game/Truffe_noire_chocolat_canonica-600x600.png" alt="Truffe_noire_chocolate" id="candy" onclick="candy_four()">
+</div> 
+    </div> */
+
+ 
+
+
+
+
+
